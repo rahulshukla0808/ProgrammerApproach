@@ -1,0 +1,13 @@
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.exe
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.deps.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.runtimeconfig.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\bin\Debug\netcoreapp3.1\Odd_EvenNumber.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.csprojAssemblyReference.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\Odd&EvenNumber\Odd_EvenNumber\Odd_EvenNumber\obj\Debug\netcoreapp3.1\Odd_EvenNumber.genruntimeconfig.cache
