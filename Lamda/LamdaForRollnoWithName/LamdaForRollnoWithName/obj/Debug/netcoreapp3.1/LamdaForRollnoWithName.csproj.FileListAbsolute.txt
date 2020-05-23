@@ -1,0 +1,12 @@
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.exe
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.deps.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.runtimeconfig.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\bin\Debug\netcoreapp3.1\LamdaForRollnoWithName.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LamdaForRollnoWithName\LamdaForRollnoWithName\obj\Debug\netcoreapp3.1\LamdaForRollnoWithName.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.exe
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.deps.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.runtimeconfig.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\bin\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.genruntimeconfig.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\LmdaforSquareAndDivideBy3\LmdaforSquareAndDivideBy3\obj\Debug\netcoreapp3.1\LmdaforSquareAndDivideBy3.csprojAssemblyReference.cache
