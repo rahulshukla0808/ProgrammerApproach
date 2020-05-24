@@ -1,0 +1,13 @@
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.exe
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.deps.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.runtimeconfig.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\bin\Debug\netcoreapp3.1\FuncWithLamda.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.csprojAssemblyReference.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.csproj.CoreCompileInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\FuncLamda\FuncWithLamda\FuncWithLamda\obj\Debug\netcoreapp3.1\FuncWithLamda.genruntimeconfig.cache

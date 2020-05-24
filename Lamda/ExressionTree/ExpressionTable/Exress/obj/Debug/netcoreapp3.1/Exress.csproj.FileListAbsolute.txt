@@ -1,0 +1,13 @@
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.exe
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.deps.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.runtimeconfig.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.runtimeconfig.dev.json
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\bin\Debug\netcoreapp3.1\Exress.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.csprojAssemblyReference.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.AssemblyInfoInputs.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.AssemblyInfo.cs
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.dll
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.pdb
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.genruntimeconfig.cache
+C:\Users\Ei11819\Desktop\airportBaggageClaim\IntegerArray\Lamda\ExressionTree\ExpressionTable\Exress\obj\Debug\netcoreapp3.1\Exress.csproj.CoreCompileInputs.cache
